@@ -1,0 +1,10 @@
+save the entire canvas in local storage:
+
+roll through each canvas
+if canvas color != original color
+
+save canvas number and color
+
+top left canvas = canvas0
+roll through coordinates, save coords and color
+

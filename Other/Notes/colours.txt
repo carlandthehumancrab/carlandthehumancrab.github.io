@@ -1,0 +1,17 @@
+The Near Future colours:
+purple: #762571
+purple2: #812C6F
+light blue: #84E2C8
+orange: #CE4E00
+black: #000000
+white: #FFFFFF
+light green: #ABD148
+blue grey: #5B8677
+
+
+background color: #476A87
+Kaboom! Colours:
+
+
+
+IFD Email: email@ifightdragons.com
